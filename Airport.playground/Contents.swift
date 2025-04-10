@@ -187,7 +187,7 @@ class SemaphoreAirportManager: AirportProtocol {
          ▲
          │
  ┌────────────────────┐
- │  Consumer Module   │ (UI, CLI, Test)
+ │  Consumer Module   │ (UI,Test)
  └────────────────────┘
  
  AirportModule/
